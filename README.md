@@ -27,7 +27,8 @@ Se desejar me contactar, aqui estão algumas páginas pessoais minhas!
 
 <hr>
 <br>
-## Knowledge
+
+## Knowledge ##
 
 + PHP, Laravel 9 and 10
 + Roadrunner
