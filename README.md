@@ -9,15 +9,6 @@ If want to contact me, in the end of this page, you can see my personal pages!
 <br>
 <hr>
 <br>
-<h2>👋 Olá, Eu sou @EduardoBacarin!</h2>
-💼 Você pode me achar no LinkedIn <a href="https://www.linkedin.com/in/eduardo-de-oliveira-bacarin-a72b987a/">aqui!</a><br>
-Sou um entusiasta da tecnologia 💻 and mecânica 🚘, meu sonho é fazer algo envolvendo e unificando as duas coisas, mas estamos em progresso para aprender mais e talvez algum dia fazer algo útil para isso!
-<br><br>
-🧑🏻‍💻 E sobre os meus trabalhos? Bom, eu sou desenvolvedor web, focado em back-end usando PHP 8, Laravel 8 ao 10, eu trabalhei um bom tempo com VueJS 3 e Laravel 9, mas nesse momento eu trabalho apenas desenvolvimento microserviços utilizando Laravel 10, Roadrunner e MongoDB. Minha maior experiência com banco de dados é com MySQL, mas eu tenho sólida experiência e conhecimento com MongoDB.
-<br><br>
-Estou começando o meu portfólio aqui agora para poder mostrar alguns trabalhos pessoais. Trabalhei em vários tipos de projetos, desde e-commerces, landing pages até funções para uma fintech de máquina de cartão!
-Se desejar me contactar, aqui estão algumas páginas pessoais minhas!
-<br><br>
   <p align="center">
       <a href="https://www.linkedin.com/in/eduardo-de-oliveira-bacarin-a72b987a/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="height: 48px; width: 48px;"></a>
       <a href="mailto:me@bacarin.dev" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" style="height: 48px; width: 48px;">
